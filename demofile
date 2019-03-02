@@ -9,5 +9,9 @@ system.out.println("demo file");
 
 
 }
+
+public void sub(){
+system.out.println("sub added");
+}
 }
 
