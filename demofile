@@ -1,11 +1,17 @@
 class demo{
 
-
+public void add(){
+system.out.println("demo added");
+}
 
 public static void main(String[] args){
 system.out.println("demo file");
 
 
+}
+
+public void sub(){
+system.out.println("sub added");
 }
 }
 
