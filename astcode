@@ -1,0 +1,9 @@
+class A(var x:int,var y:int){
+
+
+
+def add(var x1:int){
+println("hello world"+x1);
+}
+
+}
