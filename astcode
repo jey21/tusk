@@ -6,4 +6,8 @@ def add(var x1:int){
 println("hello world"+x1);
 }
 
+def sub(var y1:int){
+println("hello world"+x1);
+}
+
 }
